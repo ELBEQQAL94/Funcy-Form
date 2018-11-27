@@ -1,0 +1,14 @@
+{
+  "name": "fancy-form",
+  "version": "1.0.0",
+  "description": "Funcy Form",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css"
+  },
+  "author": "EL BEQQAL Youssef",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
